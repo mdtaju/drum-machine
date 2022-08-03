@@ -122,7 +122,7 @@ function App() {
     <section className="App">
       <div>
       <DrumOuterCon bankOne={bankOne} bankTwo={bankTwo}/>
-      <p className='footer'>Develop By Md. Tajuuddin Tarek</p>
+      <p className='footer'>Develop By Md. Tajuuddin Tarek !</p>
       </div>
     </section>
   );
